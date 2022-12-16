@@ -2472,3 +2472,695 @@
 [16-Dec-2022 11:42:56 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
 [16-Dec-2022 11:42:56 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
 [16-Dec-2022 11:42:56 UTC] PHP Warning:  Module 'gd' already loaded in Unknown on line 0
+[16-Dec-2022 12:06:23 UTC] PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[16-Dec-2022 12:06:23 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[16-Dec-2022 12:06:23 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[16-Dec-2022 12:06:23 UTC] PHP Warning:  Module 'mcrypt' already loaded in Unknown on line 0
+[16-Dec-2022 12:06:23 UTC] PHP Warning:  Module 'xsl' already loaded in Unknown on line 0
+[16-Dec-2022 12:06:23 UTC] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[16-Dec-2022 12:06:23 UTC] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[16-Dec-2022 12:06:23 UTC] PHP Warning:  Module 'gd' already loaded in Unknown on line 0
+[16-Dec-2022 12:13:07 UTC] PHP Notice:  Undefined index: desc04 in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 105
+[16-Dec-2022 12:13:07 UTC] PHP Stack trace:
+[16-Dec-2022 12:13:07 UTC] PHP   1. {main}() /var/www/html/mikasa.php:0
+[16-Dec-2022 12:13:07 UTC] PHP   2. Smarty->display() /var/www/html/mikasa.php:55
+[16-Dec-2022 12:13:07 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:13:07 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:13:07 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:13:07 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:13:07 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:13:07 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 105
+[16-Dec-2022 12:13:07 UTC] PHP Stack trace:
+[16-Dec-2022 12:13:07 UTC] PHP   1. {main}() /var/www/html/mikasa.php:0
+[16-Dec-2022 12:13:07 UTC] PHP   2. Smarty->display() /var/www/html/mikasa.php:55
+[16-Dec-2022 12:13:07 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:13:07 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:13:07 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:13:07 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:13:07 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:13:07 UTC] PHP Notice:  Undefined index: img04 in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 109
+[16-Dec-2022 12:13:07 UTC] PHP Stack trace:
+[16-Dec-2022 12:13:07 UTC] PHP   1. {main}() /var/www/html/mikasa.php:0
+[16-Dec-2022 12:13:07 UTC] PHP   2. Smarty->display() /var/www/html/mikasa.php:55
+[16-Dec-2022 12:13:07 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:13:07 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:13:07 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:13:07 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:13:07 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:13:07 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 109
+[16-Dec-2022 12:13:07 UTC] PHP Stack trace:
+[16-Dec-2022 12:13:07 UTC] PHP   1. {main}() /var/www/html/mikasa.php:0
+[16-Dec-2022 12:13:07 UTC] PHP   2. Smarty->display() /var/www/html/mikasa.php:55
+[16-Dec-2022 12:13:07 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:13:07 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:13:07 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:13:07 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:13:07 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:13:07 UTC] PHP Notice:  Undefined index: facebook in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 179
+[16-Dec-2022 12:13:07 UTC] PHP Stack trace:
+[16-Dec-2022 12:13:07 UTC] PHP   1. {main}() /var/www/html/mikasa.php:0
+[16-Dec-2022 12:13:07 UTC] PHP   2. Smarty->display() /var/www/html/mikasa.php:55
+[16-Dec-2022 12:13:07 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:13:07 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:13:07 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:13:07 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:13:07 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:13:07 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 179
+[16-Dec-2022 12:13:07 UTC] PHP Stack trace:
+[16-Dec-2022 12:13:07 UTC] PHP   1. {main}() /var/www/html/mikasa.php:0
+[16-Dec-2022 12:13:07 UTC] PHP   2. Smarty->display() /var/www/html/mikasa.php:55
+[16-Dec-2022 12:13:07 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:13:07 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:13:07 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:13:07 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:13:07 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:13:07 UTC] PHP Notice:  Undefined index: facebook in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 181
+[16-Dec-2022 12:13:07 UTC] PHP Stack trace:
+[16-Dec-2022 12:13:07 UTC] PHP   1. {main}() /var/www/html/mikasa.php:0
+[16-Dec-2022 12:13:07 UTC] PHP   2. Smarty->display() /var/www/html/mikasa.php:55
+[16-Dec-2022 12:13:07 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:13:07 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:13:07 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:13:07 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:13:07 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:13:07 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 181
+[16-Dec-2022 12:13:07 UTC] PHP Stack trace:
+[16-Dec-2022 12:13:07 UTC] PHP   1. {main}() /var/www/html/mikasa.php:0
+[16-Dec-2022 12:13:07 UTC] PHP   2. Smarty->display() /var/www/html/mikasa.php:55
+[16-Dec-2022 12:13:07 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:13:07 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:13:07 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:13:07 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:13:07 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:13:07 UTC] PHP Notice:  Undefined index: twitter in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 191
+[16-Dec-2022 12:13:07 UTC] PHP Stack trace:
+[16-Dec-2022 12:13:07 UTC] PHP   1. {main}() /var/www/html/mikasa.php:0
+[16-Dec-2022 12:13:07 UTC] PHP   2. Smarty->display() /var/www/html/mikasa.php:55
+[16-Dec-2022 12:13:07 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:13:07 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:13:07 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:13:07 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:13:07 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:13:07 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 191
+[16-Dec-2022 12:13:07 UTC] PHP Stack trace:
+[16-Dec-2022 12:13:07 UTC] PHP   1. {main}() /var/www/html/mikasa.php:0
+[16-Dec-2022 12:13:07 UTC] PHP   2. Smarty->display() /var/www/html/mikasa.php:55
+[16-Dec-2022 12:13:07 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:13:07 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:13:07 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:13:07 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:13:07 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:13:07 UTC] PHP Notice:  Undefined index: twitter in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 193
+[16-Dec-2022 12:13:07 UTC] PHP Stack trace:
+[16-Dec-2022 12:13:07 UTC] PHP   1. {main}() /var/www/html/mikasa.php:0
+[16-Dec-2022 12:13:07 UTC] PHP   2. Smarty->display() /var/www/html/mikasa.php:55
+[16-Dec-2022 12:13:07 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:13:07 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:13:07 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:13:07 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:13:07 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:13:07 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 193
+[16-Dec-2022 12:13:07 UTC] PHP Stack trace:
+[16-Dec-2022 12:13:07 UTC] PHP   1. {main}() /var/www/html/mikasa.php:0
+[16-Dec-2022 12:13:07 UTC] PHP   2. Smarty->display() /var/www/html/mikasa.php:55
+[16-Dec-2022 12:13:07 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:13:07 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:13:07 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:13:07 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:13:07 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:13:07 UTC] PHP Notice:  Undefined index: line in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 203
+[16-Dec-2022 12:13:07 UTC] PHP Stack trace:
+[16-Dec-2022 12:13:07 UTC] PHP   1. {main}() /var/www/html/mikasa.php:0
+[16-Dec-2022 12:13:07 UTC] PHP   2. Smarty->display() /var/www/html/mikasa.php:55
+[16-Dec-2022 12:13:07 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:13:07 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:13:07 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:13:07 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:13:07 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:13:07 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 203
+[16-Dec-2022 12:13:07 UTC] PHP Stack trace:
+[16-Dec-2022 12:13:07 UTC] PHP   1. {main}() /var/www/html/mikasa.php:0
+[16-Dec-2022 12:13:07 UTC] PHP   2. Smarty->display() /var/www/html/mikasa.php:55
+[16-Dec-2022 12:13:07 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:13:07 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:13:07 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:13:07 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:13:07 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:13:07 UTC] PHP Notice:  Undefined index: line in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 205
+[16-Dec-2022 12:13:07 UTC] PHP Stack trace:
+[16-Dec-2022 12:13:07 UTC] PHP   1. {main}() /var/www/html/mikasa.php:0
+[16-Dec-2022 12:13:07 UTC] PHP   2. Smarty->display() /var/www/html/mikasa.php:55
+[16-Dec-2022 12:13:07 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:13:07 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:13:07 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:13:07 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:13:07 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:13:07 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 205
+[16-Dec-2022 12:13:07 UTC] PHP Stack trace:
+[16-Dec-2022 12:13:07 UTC] PHP   1. {main}() /var/www/html/mikasa.php:0
+[16-Dec-2022 12:13:07 UTC] PHP   2. Smarty->display() /var/www/html/mikasa.php:55
+[16-Dec-2022 12:13:07 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:13:07 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:13:07 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:13:07 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:13:07 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:14:51 UTC] PHP Notice:  Undefined index: desc04 in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 105
+[16-Dec-2022 12:14:51 UTC] PHP Stack trace:
+[16-Dec-2022 12:14:51 UTC] PHP   1. {main}() /var/www/html/akebono.php:0
+[16-Dec-2022 12:14:51 UTC] PHP   2. Smarty->display() /var/www/html/akebono.php:66
+[16-Dec-2022 12:14:51 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:14:51 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:14:51 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:14:51 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:14:51 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:14:51 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 105
+[16-Dec-2022 12:14:51 UTC] PHP Stack trace:
+[16-Dec-2022 12:14:51 UTC] PHP   1. {main}() /var/www/html/akebono.php:0
+[16-Dec-2022 12:14:51 UTC] PHP   2. Smarty->display() /var/www/html/akebono.php:66
+[16-Dec-2022 12:14:51 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:14:51 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:14:51 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:14:51 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:14:51 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:14:51 UTC] PHP Notice:  Undefined index: img04 in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 109
+[16-Dec-2022 12:14:51 UTC] PHP Stack trace:
+[16-Dec-2022 12:14:51 UTC] PHP   1. {main}() /var/www/html/akebono.php:0
+[16-Dec-2022 12:14:51 UTC] PHP   2. Smarty->display() /var/www/html/akebono.php:66
+[16-Dec-2022 12:14:51 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:14:51 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:14:51 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:14:51 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:14:51 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:14:51 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 109
+[16-Dec-2022 12:14:51 UTC] PHP Stack trace:
+[16-Dec-2022 12:14:51 UTC] PHP   1. {main}() /var/www/html/akebono.php:0
+[16-Dec-2022 12:14:51 UTC] PHP   2. Smarty->display() /var/www/html/akebono.php:66
+[16-Dec-2022 12:14:51 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:14:51 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:14:51 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:14:51 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:14:51 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:14:51 UTC] PHP Notice:  Undefined index: twitter in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 191
+[16-Dec-2022 12:14:51 UTC] PHP Stack trace:
+[16-Dec-2022 12:14:51 UTC] PHP   1. {main}() /var/www/html/akebono.php:0
+[16-Dec-2022 12:14:51 UTC] PHP   2. Smarty->display() /var/www/html/akebono.php:66
+[16-Dec-2022 12:14:51 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:14:51 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:14:51 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:14:51 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:14:51 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:14:51 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 191
+[16-Dec-2022 12:14:51 UTC] PHP Stack trace:
+[16-Dec-2022 12:14:51 UTC] PHP   1. {main}() /var/www/html/akebono.php:0
+[16-Dec-2022 12:14:51 UTC] PHP   2. Smarty->display() /var/www/html/akebono.php:66
+[16-Dec-2022 12:14:51 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:14:51 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:14:51 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:14:51 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:14:51 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:14:51 UTC] PHP Notice:  Undefined index: twitter in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 193
+[16-Dec-2022 12:14:51 UTC] PHP Stack trace:
+[16-Dec-2022 12:14:51 UTC] PHP   1. {main}() /var/www/html/akebono.php:0
+[16-Dec-2022 12:14:51 UTC] PHP   2. Smarty->display() /var/www/html/akebono.php:66
+[16-Dec-2022 12:14:51 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:14:51 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:14:51 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:14:51 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:14:51 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:14:51 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 193
+[16-Dec-2022 12:14:51 UTC] PHP Stack trace:
+[16-Dec-2022 12:14:51 UTC] PHP   1. {main}() /var/www/html/akebono.php:0
+[16-Dec-2022 12:14:51 UTC] PHP   2. Smarty->display() /var/www/html/akebono.php:66
+[16-Dec-2022 12:14:51 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:14:51 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:14:51 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:14:51 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:14:51 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:14:51 UTC] PHP Notice:  Undefined index: line in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 203
+[16-Dec-2022 12:14:51 UTC] PHP Stack trace:
+[16-Dec-2022 12:14:51 UTC] PHP   1. {main}() /var/www/html/akebono.php:0
+[16-Dec-2022 12:14:51 UTC] PHP   2. Smarty->display() /var/www/html/akebono.php:66
+[16-Dec-2022 12:14:51 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:14:51 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:14:51 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:14:51 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:14:51 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:14:51 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 203
+[16-Dec-2022 12:14:51 UTC] PHP Stack trace:
+[16-Dec-2022 12:14:51 UTC] PHP   1. {main}() /var/www/html/akebono.php:0
+[16-Dec-2022 12:14:51 UTC] PHP   2. Smarty->display() /var/www/html/akebono.php:66
+[16-Dec-2022 12:14:51 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:14:51 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:14:51 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:14:51 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:14:51 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:14:51 UTC] PHP Notice:  Undefined index: line in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 205
+[16-Dec-2022 12:14:51 UTC] PHP Stack trace:
+[16-Dec-2022 12:14:51 UTC] PHP   1. {main}() /var/www/html/akebono.php:0
+[16-Dec-2022 12:14:51 UTC] PHP   2. Smarty->display() /var/www/html/akebono.php:66
+[16-Dec-2022 12:14:51 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:14:51 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:14:51 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:14:51 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:14:51 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:14:51 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 205
+[16-Dec-2022 12:14:51 UTC] PHP Stack trace:
+[16-Dec-2022 12:14:51 UTC] PHP   1. {main}() /var/www/html/akebono.php:0
+[16-Dec-2022 12:14:51 UTC] PHP   2. Smarty->display() /var/www/html/akebono.php:66
+[16-Dec-2022 12:14:51 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:14:51 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:14:51 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:14:51 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:14:51 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:17:32 UTC] PHP Notice:  Undefined index: desc04 in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 105
+[16-Dec-2022 12:17:32 UTC] PHP Stack trace:
+[16-Dec-2022 12:17:32 UTC] PHP   1. {main}() /var/www/html/akebono.php:0
+[16-Dec-2022 12:17:32 UTC] PHP   2. Smarty->display() /var/www/html/akebono.php:66
+[16-Dec-2022 12:17:32 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:17:32 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:17:32 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:17:32 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:17:32 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:17:32 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 105
+[16-Dec-2022 12:17:32 UTC] PHP Stack trace:
+[16-Dec-2022 12:17:32 UTC] PHP   1. {main}() /var/www/html/akebono.php:0
+[16-Dec-2022 12:17:32 UTC] PHP   2. Smarty->display() /var/www/html/akebono.php:66
+[16-Dec-2022 12:17:32 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:17:32 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:17:32 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:17:32 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:17:32 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:17:32 UTC] PHP Notice:  Undefined index: img04 in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 109
+[16-Dec-2022 12:17:32 UTC] PHP Stack trace:
+[16-Dec-2022 12:17:32 UTC] PHP   1. {main}() /var/www/html/akebono.php:0
+[16-Dec-2022 12:17:32 UTC] PHP   2. Smarty->display() /var/www/html/akebono.php:66
+[16-Dec-2022 12:17:32 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:17:32 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:17:32 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:17:32 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:17:32 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:17:32 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 109
+[16-Dec-2022 12:17:32 UTC] PHP Stack trace:
+[16-Dec-2022 12:17:32 UTC] PHP   1. {main}() /var/www/html/akebono.php:0
+[16-Dec-2022 12:17:32 UTC] PHP   2. Smarty->display() /var/www/html/akebono.php:66
+[16-Dec-2022 12:17:32 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:17:32 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:17:32 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:17:32 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:17:32 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:17:32 UTC] PHP Notice:  Undefined index: twitter in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 191
+[16-Dec-2022 12:17:32 UTC] PHP Stack trace:
+[16-Dec-2022 12:17:32 UTC] PHP   1. {main}() /var/www/html/akebono.php:0
+[16-Dec-2022 12:17:32 UTC] PHP   2. Smarty->display() /var/www/html/akebono.php:66
+[16-Dec-2022 12:17:32 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:17:32 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:17:32 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:17:32 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:17:32 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:17:32 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 191
+[16-Dec-2022 12:17:32 UTC] PHP Stack trace:
+[16-Dec-2022 12:17:32 UTC] PHP   1. {main}() /var/www/html/akebono.php:0
+[16-Dec-2022 12:17:32 UTC] PHP   2. Smarty->display() /var/www/html/akebono.php:66
+[16-Dec-2022 12:17:32 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:17:32 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:17:32 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:17:32 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:17:32 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:17:32 UTC] PHP Notice:  Undefined index: twitter in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 193
+[16-Dec-2022 12:17:32 UTC] PHP Stack trace:
+[16-Dec-2022 12:17:32 UTC] PHP   1. {main}() /var/www/html/akebono.php:0
+[16-Dec-2022 12:17:32 UTC] PHP   2. Smarty->display() /var/www/html/akebono.php:66
+[16-Dec-2022 12:17:32 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:17:32 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:17:32 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:17:32 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:17:32 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:17:32 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 193
+[16-Dec-2022 12:17:32 UTC] PHP Stack trace:
+[16-Dec-2022 12:17:32 UTC] PHP   1. {main}() /var/www/html/akebono.php:0
+[16-Dec-2022 12:17:32 UTC] PHP   2. Smarty->display() /var/www/html/akebono.php:66
+[16-Dec-2022 12:17:32 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:17:32 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:17:32 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:17:32 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:17:32 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:17:32 UTC] PHP Notice:  Undefined index: line in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 203
+[16-Dec-2022 12:17:32 UTC] PHP Stack trace:
+[16-Dec-2022 12:17:32 UTC] PHP   1. {main}() /var/www/html/akebono.php:0
+[16-Dec-2022 12:17:32 UTC] PHP   2. Smarty->display() /var/www/html/akebono.php:66
+[16-Dec-2022 12:17:32 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:17:32 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:17:32 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:17:32 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:17:32 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:17:32 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 203
+[16-Dec-2022 12:17:32 UTC] PHP Stack trace:
+[16-Dec-2022 12:17:32 UTC] PHP   1. {main}() /var/www/html/akebono.php:0
+[16-Dec-2022 12:17:32 UTC] PHP   2. Smarty->display() /var/www/html/akebono.php:66
+[16-Dec-2022 12:17:32 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:17:32 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:17:32 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:17:32 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:17:32 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:17:32 UTC] PHP Notice:  Undefined index: line in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 205
+[16-Dec-2022 12:17:32 UTC] PHP Stack trace:
+[16-Dec-2022 12:17:32 UTC] PHP   1. {main}() /var/www/html/akebono.php:0
+[16-Dec-2022 12:17:32 UTC] PHP   2. Smarty->display() /var/www/html/akebono.php:66
+[16-Dec-2022 12:17:32 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:17:32 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:17:32 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:17:32 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:17:32 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:17:32 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 205
+[16-Dec-2022 12:17:32 UTC] PHP Stack trace:
+[16-Dec-2022 12:17:32 UTC] PHP   1. {main}() /var/www/html/akebono.php:0
+[16-Dec-2022 12:17:32 UTC] PHP   2. Smarty->display() /var/www/html/akebono.php:66
+[16-Dec-2022 12:17:32 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:17:32 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:17:32 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:17:32 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:17:32 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:17:34 UTC] PHP Notice:  Undefined index: facebook in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 179
+[16-Dec-2022 12:17:34 UTC] PHP Stack trace:
+[16-Dec-2022 12:17:34 UTC] PHP   1. {main}() /var/www/html/bunmeido.php:0
+[16-Dec-2022 12:17:34 UTC] PHP   2. Smarty->display() /var/www/html/bunmeido.php:61
+[16-Dec-2022 12:17:34 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:17:34 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:17:34 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:17:34 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:17:34 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:17:34 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 179
+[16-Dec-2022 12:17:34 UTC] PHP Stack trace:
+[16-Dec-2022 12:17:34 UTC] PHP   1. {main}() /var/www/html/bunmeido.php:0
+[16-Dec-2022 12:17:34 UTC] PHP   2. Smarty->display() /var/www/html/bunmeido.php:61
+[16-Dec-2022 12:17:34 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:17:34 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:17:34 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:17:34 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:17:34 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:17:34 UTC] PHP Notice:  Undefined index: facebook in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 181
+[16-Dec-2022 12:17:34 UTC] PHP Stack trace:
+[16-Dec-2022 12:17:34 UTC] PHP   1. {main}() /var/www/html/bunmeido.php:0
+[16-Dec-2022 12:17:34 UTC] PHP   2. Smarty->display() /var/www/html/bunmeido.php:61
+[16-Dec-2022 12:17:34 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:17:34 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:17:34 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:17:34 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:17:34 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:17:34 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 181
+[16-Dec-2022 12:17:34 UTC] PHP Stack trace:
+[16-Dec-2022 12:17:34 UTC] PHP   1. {main}() /var/www/html/bunmeido.php:0
+[16-Dec-2022 12:17:34 UTC] PHP   2. Smarty->display() /var/www/html/bunmeido.php:61
+[16-Dec-2022 12:17:34 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:17:34 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:17:34 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:17:34 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:17:34 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:17:34 UTC] PHP Notice:  Undefined index: twitter in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 191
+[16-Dec-2022 12:17:34 UTC] PHP Stack trace:
+[16-Dec-2022 12:17:34 UTC] PHP   1. {main}() /var/www/html/bunmeido.php:0
+[16-Dec-2022 12:17:34 UTC] PHP   2. Smarty->display() /var/www/html/bunmeido.php:61
+[16-Dec-2022 12:17:34 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:17:34 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:17:34 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:17:34 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:17:34 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:17:34 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 191
+[16-Dec-2022 12:17:34 UTC] PHP Stack trace:
+[16-Dec-2022 12:17:34 UTC] PHP   1. {main}() /var/www/html/bunmeido.php:0
+[16-Dec-2022 12:17:34 UTC] PHP   2. Smarty->display() /var/www/html/bunmeido.php:61
+[16-Dec-2022 12:17:34 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:17:34 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:17:34 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:17:34 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:17:34 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:17:34 UTC] PHP Notice:  Undefined index: twitter in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 193
+[16-Dec-2022 12:17:34 UTC] PHP Stack trace:
+[16-Dec-2022 12:17:34 UTC] PHP   1. {main}() /var/www/html/bunmeido.php:0
+[16-Dec-2022 12:17:34 UTC] PHP   2. Smarty->display() /var/www/html/bunmeido.php:61
+[16-Dec-2022 12:17:34 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:17:34 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:17:34 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:17:34 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:17:34 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:17:34 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 193
+[16-Dec-2022 12:17:34 UTC] PHP Stack trace:
+[16-Dec-2022 12:17:34 UTC] PHP   1. {main}() /var/www/html/bunmeido.php:0
+[16-Dec-2022 12:17:34 UTC] PHP   2. Smarty->display() /var/www/html/bunmeido.php:61
+[16-Dec-2022 12:17:34 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:17:34 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:17:34 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:17:34 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:17:34 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:17:34 UTC] PHP Notice:  Undefined index: line in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 203
+[16-Dec-2022 12:17:34 UTC] PHP Stack trace:
+[16-Dec-2022 12:17:34 UTC] PHP   1. {main}() /var/www/html/bunmeido.php:0
+[16-Dec-2022 12:17:34 UTC] PHP   2. Smarty->display() /var/www/html/bunmeido.php:61
+[16-Dec-2022 12:17:34 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:17:34 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:17:34 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:17:34 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:17:34 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:17:34 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 203
+[16-Dec-2022 12:17:34 UTC] PHP Stack trace:
+[16-Dec-2022 12:17:34 UTC] PHP   1. {main}() /var/www/html/bunmeido.php:0
+[16-Dec-2022 12:17:34 UTC] PHP   2. Smarty->display() /var/www/html/bunmeido.php:61
+[16-Dec-2022 12:17:34 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:17:34 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:17:34 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:17:34 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:17:34 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:17:34 UTC] PHP Notice:  Undefined index: line in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 205
+[16-Dec-2022 12:17:34 UTC] PHP Stack trace:
+[16-Dec-2022 12:17:34 UTC] PHP   1. {main}() /var/www/html/bunmeido.php:0
+[16-Dec-2022 12:17:34 UTC] PHP   2. Smarty->display() /var/www/html/bunmeido.php:61
+[16-Dec-2022 12:17:34 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:17:34 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:17:34 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:17:34 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:17:34 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:17:34 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 205
+[16-Dec-2022 12:17:34 UTC] PHP Stack trace:
+[16-Dec-2022 12:17:34 UTC] PHP   1. {main}() /var/www/html/bunmeido.php:0
+[16-Dec-2022 12:17:34 UTC] PHP   2. Smarty->display() /var/www/html/bunmeido.php:61
+[16-Dec-2022 12:17:34 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:17:34 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:17:34 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:17:34 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:17:34 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:19:48 UTC] PHP Notice:  Undefined index: desc04 in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 105
+[16-Dec-2022 12:19:48 UTC] PHP Stack trace:
+[16-Dec-2022 12:19:48 UTC] PHP   1. {main}() /var/www/html/akebono.php:0
+[16-Dec-2022 12:19:48 UTC] PHP   2. Smarty->display() /var/www/html/akebono.php:66
+[16-Dec-2022 12:19:48 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:19:48 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:19:48 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:19:48 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:19:48 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:19:48 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 105
+[16-Dec-2022 12:19:48 UTC] PHP Stack trace:
+[16-Dec-2022 12:19:48 UTC] PHP   1. {main}() /var/www/html/akebono.php:0
+[16-Dec-2022 12:19:48 UTC] PHP   2. Smarty->display() /var/www/html/akebono.php:66
+[16-Dec-2022 12:19:48 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:19:48 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:19:48 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:19:48 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:19:48 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:19:48 UTC] PHP Notice:  Undefined index: img04 in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 109
+[16-Dec-2022 12:19:48 UTC] PHP Stack trace:
+[16-Dec-2022 12:19:48 UTC] PHP   1. {main}() /var/www/html/akebono.php:0
+[16-Dec-2022 12:19:48 UTC] PHP   2. Smarty->display() /var/www/html/akebono.php:66
+[16-Dec-2022 12:19:48 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:19:48 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:19:48 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:19:48 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:19:48 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:19:48 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 109
+[16-Dec-2022 12:19:48 UTC] PHP Stack trace:
+[16-Dec-2022 12:19:48 UTC] PHP   1. {main}() /var/www/html/akebono.php:0
+[16-Dec-2022 12:19:48 UTC] PHP   2. Smarty->display() /var/www/html/akebono.php:66
+[16-Dec-2022 12:19:48 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:19:48 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:19:48 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:19:48 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:19:48 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:19:48 UTC] PHP Notice:  Undefined index: twitter in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 191
+[16-Dec-2022 12:19:48 UTC] PHP Stack trace:
+[16-Dec-2022 12:19:48 UTC] PHP   1. {main}() /var/www/html/akebono.php:0
+[16-Dec-2022 12:19:48 UTC] PHP   2. Smarty->display() /var/www/html/akebono.php:66
+[16-Dec-2022 12:19:48 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:19:48 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:19:48 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:19:48 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:19:48 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:19:48 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 191
+[16-Dec-2022 12:19:48 UTC] PHP Stack trace:
+[16-Dec-2022 12:19:48 UTC] PHP   1. {main}() /var/www/html/akebono.php:0
+[16-Dec-2022 12:19:48 UTC] PHP   2. Smarty->display() /var/www/html/akebono.php:66
+[16-Dec-2022 12:19:48 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:19:48 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:19:48 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:19:48 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:19:48 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:19:48 UTC] PHP Notice:  Undefined index: twitter in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 193
+[16-Dec-2022 12:19:48 UTC] PHP Stack trace:
+[16-Dec-2022 12:19:48 UTC] PHP   1. {main}() /var/www/html/akebono.php:0
+[16-Dec-2022 12:19:48 UTC] PHP   2. Smarty->display() /var/www/html/akebono.php:66
+[16-Dec-2022 12:19:48 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:19:48 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:19:48 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:19:48 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:19:48 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:19:48 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 193
+[16-Dec-2022 12:19:48 UTC] PHP Stack trace:
+[16-Dec-2022 12:19:48 UTC] PHP   1. {main}() /var/www/html/akebono.php:0
+[16-Dec-2022 12:19:48 UTC] PHP   2. Smarty->display() /var/www/html/akebono.php:66
+[16-Dec-2022 12:19:48 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:19:48 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:19:48 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:19:48 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:19:48 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:19:48 UTC] PHP Notice:  Undefined index: line in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 203
+[16-Dec-2022 12:19:48 UTC] PHP Stack trace:
+[16-Dec-2022 12:19:48 UTC] PHP   1. {main}() /var/www/html/akebono.php:0
+[16-Dec-2022 12:19:48 UTC] PHP   2. Smarty->display() /var/www/html/akebono.php:66
+[16-Dec-2022 12:19:48 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:19:48 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:19:48 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:19:48 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:19:48 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:19:48 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 203
+[16-Dec-2022 12:19:48 UTC] PHP Stack trace:
+[16-Dec-2022 12:19:48 UTC] PHP   1. {main}() /var/www/html/akebono.php:0
+[16-Dec-2022 12:19:48 UTC] PHP   2. Smarty->display() /var/www/html/akebono.php:66
+[16-Dec-2022 12:19:48 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:19:48 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:19:48 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:19:48 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:19:48 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:19:48 UTC] PHP Notice:  Undefined index: line in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 205
+[16-Dec-2022 12:19:48 UTC] PHP Stack trace:
+[16-Dec-2022 12:19:48 UTC] PHP   1. {main}() /var/www/html/akebono.php:0
+[16-Dec-2022 12:19:48 UTC] PHP   2. Smarty->display() /var/www/html/akebono.php:66
+[16-Dec-2022 12:19:48 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:19:48 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:19:48 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:19:48 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:19:48 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:19:48 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 205
+[16-Dec-2022 12:19:48 UTC] PHP Stack trace:
+[16-Dec-2022 12:19:48 UTC] PHP   1. {main}() /var/www/html/akebono.php:0
+[16-Dec-2022 12:19:48 UTC] PHP   2. Smarty->display() /var/www/html/akebono.php:66
+[16-Dec-2022 12:19:48 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:19:48 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:19:48 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:19:48 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:19:48 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:19:52 UTC] PHP Notice:  Undefined index: facebook in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 179
+[16-Dec-2022 12:19:52 UTC] PHP Stack trace:
+[16-Dec-2022 12:19:52 UTC] PHP   1. {main}() /var/www/html/bunmeido.php:0
+[16-Dec-2022 12:19:52 UTC] PHP   2. Smarty->display() /var/www/html/bunmeido.php:61
+[16-Dec-2022 12:19:52 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:19:52 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:19:52 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:19:52 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:19:52 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:19:52 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 179
+[16-Dec-2022 12:19:52 UTC] PHP Stack trace:
+[16-Dec-2022 12:19:52 UTC] PHP   1. {main}() /var/www/html/bunmeido.php:0
+[16-Dec-2022 12:19:52 UTC] PHP   2. Smarty->display() /var/www/html/bunmeido.php:61
+[16-Dec-2022 12:19:52 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:19:52 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:19:52 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:19:52 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:19:52 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:19:52 UTC] PHP Notice:  Undefined index: facebook in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 181
+[16-Dec-2022 12:19:52 UTC] PHP Stack trace:
+[16-Dec-2022 12:19:52 UTC] PHP   1. {main}() /var/www/html/bunmeido.php:0
+[16-Dec-2022 12:19:52 UTC] PHP   2. Smarty->display() /var/www/html/bunmeido.php:61
+[16-Dec-2022 12:19:52 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:19:52 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:19:52 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:19:52 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:19:52 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:19:52 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 181
+[16-Dec-2022 12:19:52 UTC] PHP Stack trace:
+[16-Dec-2022 12:19:52 UTC] PHP   1. {main}() /var/www/html/bunmeido.php:0
+[16-Dec-2022 12:19:52 UTC] PHP   2. Smarty->display() /var/www/html/bunmeido.php:61
+[16-Dec-2022 12:19:52 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:19:52 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:19:52 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:19:52 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:19:52 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:19:52 UTC] PHP Notice:  Undefined index: twitter in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 191
+[16-Dec-2022 12:19:52 UTC] PHP Stack trace:
+[16-Dec-2022 12:19:52 UTC] PHP   1. {main}() /var/www/html/bunmeido.php:0
+[16-Dec-2022 12:19:52 UTC] PHP   2. Smarty->display() /var/www/html/bunmeido.php:61
+[16-Dec-2022 12:19:52 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:19:52 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:19:52 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:19:52 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:19:52 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:19:52 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 191
+[16-Dec-2022 12:19:52 UTC] PHP Stack trace:
+[16-Dec-2022 12:19:52 UTC] PHP   1. {main}() /var/www/html/bunmeido.php:0
+[16-Dec-2022 12:19:52 UTC] PHP   2. Smarty->display() /var/www/html/bunmeido.php:61
+[16-Dec-2022 12:19:52 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:19:52 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:19:52 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:19:52 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:19:52 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:19:52 UTC] PHP Notice:  Undefined index: twitter in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 193
+[16-Dec-2022 12:19:52 UTC] PHP Stack trace:
+[16-Dec-2022 12:19:52 UTC] PHP   1. {main}() /var/www/html/bunmeido.php:0
+[16-Dec-2022 12:19:52 UTC] PHP   2. Smarty->display() /var/www/html/bunmeido.php:61
+[16-Dec-2022 12:19:52 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:19:52 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:19:52 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:19:52 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:19:52 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:19:52 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 193
+[16-Dec-2022 12:19:52 UTC] PHP Stack trace:
+[16-Dec-2022 12:19:52 UTC] PHP   1. {main}() /var/www/html/bunmeido.php:0
+[16-Dec-2022 12:19:52 UTC] PHP   2. Smarty->display() /var/www/html/bunmeido.php:61
+[16-Dec-2022 12:19:52 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:19:52 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:19:52 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:19:52 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:19:52 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:19:52 UTC] PHP Notice:  Undefined index: line in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 203
+[16-Dec-2022 12:19:52 UTC] PHP Stack trace:
+[16-Dec-2022 12:19:52 UTC] PHP   1. {main}() /var/www/html/bunmeido.php:0
+[16-Dec-2022 12:19:52 UTC] PHP   2. Smarty->display() /var/www/html/bunmeido.php:61
+[16-Dec-2022 12:19:52 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:19:52 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:19:52 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:19:52 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:19:52 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:19:52 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 203
+[16-Dec-2022 12:19:52 UTC] PHP Stack trace:
+[16-Dec-2022 12:19:52 UTC] PHP   1. {main}() /var/www/html/bunmeido.php:0
+[16-Dec-2022 12:19:52 UTC] PHP   2. Smarty->display() /var/www/html/bunmeido.php:61
+[16-Dec-2022 12:19:52 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:19:52 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:19:52 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:19:52 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:19:52 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:19:52 UTC] PHP Notice:  Undefined index: line in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 205
+[16-Dec-2022 12:19:52 UTC] PHP Stack trace:
+[16-Dec-2022 12:19:52 UTC] PHP   1. {main}() /var/www/html/bunmeido.php:0
+[16-Dec-2022 12:19:52 UTC] PHP   2. Smarty->display() /var/www/html/bunmeido.php:61
+[16-Dec-2022 12:19:52 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:19:52 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:19:52 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:19:52 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:19:52 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
+[16-Dec-2022 12:19:52 UTC] PHP Notice:  Trying to get property of non-object in /var/www/html/smarty/templates_c/2649f296992bd87d614deb8862248f8a7d2dd4fd_0.file.ec.tpl.php on line 205
+[16-Dec-2022 12:19:52 UTC] PHP Stack trace:
+[16-Dec-2022 12:19:52 UTC] PHP   1. {main}() /var/www/html/bunmeido.php:0
+[16-Dec-2022 12:19:52 UTC] PHP   2. Smarty->display() /var/www/html/bunmeido.php:61
+[16-Dec-2022 12:19:52 UTC] PHP   3. Smarty->_execute() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:134
+[16-Dec-2022 12:19:52 UTC] PHP   4. Smarty_Internal_Template->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_templatebase.php:238
+[16-Dec-2022 12:19:52 UTC] PHP   5. Smarty_Template_Compiled->render() /var/www/html/smarty/libs/sysplugins/smarty_internal_template.php:216
+[16-Dec-2022 12:19:52 UTC] PHP   6. Smarty_Template_Compiled->getRenderedTemplateCode() /var/www/html/smarty/libs/sysplugins/smarty_template_compiled.php:114
+[16-Dec-2022 12:19:52 UTC] PHP   7. content_639c5532805716_39839050() /var/www/html/smarty/libs/sysplugins/smarty_template_resource_base.php:123
